@@ -9,13 +9,15 @@ Welcome to my GitHub profile!
 
 ### 🔧 Technologies & Tools
 - **Languages:** Python, Javascript, C/C++, Scala, Matlab, R
-- **Frameworks:** React, Node.js, Django
+- **Frameworks:** React, Node.js, Django, Flask
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker, VSCode
 
 ### 📈 Projects
-Currently I'm working on:
-- [Stock-App](https://github.com/ruokokoski/stock-app) - Web application for stock market monitoring and portfolio management.
+Some of my projects:
+- [Stock-App](https://github.com/ruokokoski/stock-app) - A web application for stock market monitoring and portfolio management.
+- [SciCalc](https://github.com/ruokokoski/ot-harjoitustyo) - A scientific calculator built using Python, offering advanced mathematical functions and a user-friendly interface.
+- [OpeApu](https://github.com/ruokokoski/opeapu) - A web app for elementary school teachers to assist with tracking class participation and grading courses.
 
 ### 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/teemu-ruokokoski/](https://www.linkedin.com/in/teemu-ruokokoski/)
