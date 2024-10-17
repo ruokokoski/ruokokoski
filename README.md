@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 - 🎓 I hold a Licentiate in Technology from Aalto University, but I have since changed fields and am currently studying at the University of Helsinki.
 
 ### 🔧 Technologies & Tools
-- **Languages:** Python, Javascript, C/C++, Scala, Matlab, R
-- **Frameworks:** React, Node.js, Django, Flask
+- **Languages:** Python, Javascript, Matlab, R, C/C++, Scala, VHDL
+- **Frameworks:** React, Node.js, Django, Flask, Spark
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker, VSCode
 
