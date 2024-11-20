@@ -5,10 +5,10 @@ Welcome to my GitHub profile!
 ### 🌱 About Me
 - 👨‍💻 I’m currently working on my bachelor's thesis in Computer Science.
 - 🌍 I’m based in Kirkkonumi, Finland.
-- 🎓 I hold a Licentiate in Technology from Aalto University, but I have since changed fields and am currently studying at the University of Helsinki.
+- 🎓 I hold an M.Sc.(EE) from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University. I have since transitioned to a new field and am currently pursuing studies at the University of Helsinki.
 
 ### 🔧 Technologies & Tools
-- **Languages:** Python, Javascript, Matlab, R, C/C++, Scala, VHDL
+- **Languages:** Python, Javascript, Matlab, R, C/(C++), Scala, VHDL, a bit of Haskell
 - **Frameworks:** React, Node.js, Django, Flask, Spark
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker, VSCode
