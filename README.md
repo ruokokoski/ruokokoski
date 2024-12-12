@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ### 🌱 About Me
 - 👨‍💻 I’m currently working on my bachelor's thesis in Computer Science.
-- 🌍 I’m based in Kirkkonumi, Finland.
+- 🌍 I’m based in Kirkkonummi, Finland.
 - 🎓 I hold an M.Sc.(EE) from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University. I have since transitioned to a new field and am currently pursuing studies at the University of Helsinki.
 
 ### 🔧 Technologies & Tools
@@ -16,6 +16,7 @@ Welcome to my GitHub profile!
 ### 📈 Projects
 Some of my projects:
 - [Stock-App](https://github.com/ruokokoski/stock-app) - A web application for stock market monitoring and portfolio management.
+- [ACM Scraper](https://github.com/ruokokoski/acm-webscraper) - ACM Digital Library Scraper uses Selenium and BeautifulSoup to extract article details from keyword searches.
 - [SciCalc](https://github.com/ruokokoski/ot-harjoitustyo) - A scientific calculator built using Python, offering advanced mathematical functions and a user-friendly interface.
 - [OpeApu](https://github.com/ruokokoski/opeapu) - A web app for elementary school teachers to assist with tracking class participation and grading courses.
 
