@@ -8,10 +8,10 @@ Welcome to my GitHub profile!
 - 🎓 I hold an M.Sc.(EE) from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University. I have since transitioned to a new field and have so far completed a B.Sc. in Computer Science at the University of Helsinki.
 
 ### 🔧 Technologies & Tools
-- **Languages:** Python, Javascript, Matlab, R, C/(C++), Scala, VHDL, a bit of Haskell
+- **Languages:** Python, Javascript, C/C++, Matlab, R, Scala, VHDL, a bit of Haskell
 - **Frameworks:** React, Node.js, Django, Flask, Spark
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, VSCode
+- **Tools:** Git, Docker, VSCode, CUDA
 
 ### 📈 Projects
 Some of my projects:
