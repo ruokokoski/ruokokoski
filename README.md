@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 
 ### 📈 Projects
 Some of my projects:
-- [Metabolic NN](https://github.com/ruokokoski/metabolic-NN) - Neural suorrogates for metabolic modeling
+- [Metabolic NN](https://github.com/ruokokoski/metabolic-NN) - Neural surrogates for metabolic modeling
 - [Tab FM](https://github.com/ruokokoski/tab-fm) - Comparison of tabular foundation models and tree ensembles on binary classification tasks
 - [Stock-App](https://github.com/ruokokoski/stock-app) - A web application for stock market monitoring and portfolio management.
 - [AI Research Assistant](https://github.com/ruokokoski/AI-research-assistant) - A Flask app for scraping research articles and summarizing them with LLM
