@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ### 🌱 About Me
 - 👨‍💻 I’m currently working on my master's thesis in Data Science.
 - 🌍 I’m based in Kirkkonummi, Finland.
-- 🎓 I hold an M.Sc.(EE) from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University. I have since transitioned to a new field and have so far completed a B.Sc. in Computer Science at the University of Helsinki.
+- 🎓 I hold an M.Sc.(EE) from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University. I have since transitioned to a new field and have so far completed a B.Sc. in Computer Science at University of Helsinki.
 
 ### 🔧 Technologies & Tools
 - **Languages:** Python, Javascript, C/C++, Matlab, R, Scala, VHDL, a bit of Haskell
@@ -15,6 +15,8 @@ Welcome to my GitHub profile!
 
 ### 📈 Projects
 Some of my projects:
+- [Metabolic NN](https://github.com/ruokokoski/metabolic-NN) - Neural suorrogates for metabolic modeling
+- [Tab FM](https://github.com/ruokokoski/tab-fm) - Comparison of tabular foundation models and tree ensembles on binary classification tasks
 - [Stock-App](https://github.com/ruokokoski/stock-app) - A web application for stock market monitoring and portfolio management.
 - [AI Research Assistant](https://github.com/ruokokoski/AI-research-assistant) - A Flask app for scraping research articles and summarizing them with LLM
 - [ACM Scraper](https://github.com/ruokokoski/acm-webscraper) - ACM Digital Library Scraper uses Selenium and BeautifulSoup to extract article details from keyword searches.
