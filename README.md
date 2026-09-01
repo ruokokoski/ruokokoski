@@ -3,16 +3,17 @@
 Welcome to my GitHub profile!
 
 ### 🌱 About Me
-- 👨‍💻 I’m currently pursuing doctoral studies in Data Science at the University of Helsinki, with research focused on Transformers and machine learning.
+- 👨‍💻 I’m currently pursuing doctoral studies in Data Science at University of Helsinki, with research focused on Transformers and machine learning.
 - 🌍 I’m based in Kirkkonummi, Finland.
 - 🎓 I hold an M.Sc. in Data Science and a B.Sc. in Computer Science from the University of Helsinki, as well as an M.Sc. in Electrical Engineering from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University.
 - 💡 My current research interests include Transformer architectures, machine learning, Bayesian optimization, and Gaussian processes.
 
 ### 🔧 Technologies & Tools
-- **Languages:** Python, Javascript, C/C++, Matlab, R, Scala, VHDL, a bit of Haskell
-- **Frameworks:** PyTorch, React, Node.js, Django, Flask, Spark
+- **Languages:** Python, Javascript, C/C++, Matlab, R, Scala, VHDL, SQL, some Haskell
+- **ML & Scientific Computing:** PyTorch, scikit-learn, NumPy, pandas, SciPy
+- **Web and Data Frameworks:** React, Node.js, Django, Flask, Spark
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, VSCode, CUDA
+- **Tools and Platforms:** Git, Docker, VSCode, CUDA, Linux, Jupyter, Conda
 
 ### 📈 Projects
 Some of my projects:
