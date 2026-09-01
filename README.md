@@ -1,11 +1,12 @@
-## Hi, I'm Teemu Ruokokoski 👋
+## I'm Teemu Ruokokoski
 
 Welcome to my GitHub profile!
 
 ### 🌱 About Me
-- 👨‍💻 I’m currently working on my master's thesis in Data Science.
+- 👨‍💻 I’m currently pursuing doctoral studies in Data Science at the University of Helsinki, with research focused on Transformers and machine learning.
 - 🌍 I’m based in Kirkkonummi, Finland.
-- 🎓 I hold an M.Sc.(EE) from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University. I have since transitioned to a new field and have so far completed a B.Sc. in Computer Science at University of Helsinki.
+- 🎓 I hold an M.Sc. in Data Science and a B.Sc. in Computer Science from the University of Helsinki, as well as an M.Sc. in Electrical Engineering from Helsinki University of Technology and a Lic.Sc. (Tech.) from Aalto University.
+- 💡 My current research interests include Transformer architectures, machine learning, Bayesian optimization, and Gaussian processes.
 
 ### 🔧 Technologies & Tools
 - **Languages:** Python, Javascript, C/C++, Matlab, R, Scala, VHDL, a bit of Haskell
